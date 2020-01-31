@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Impact17 Tech Site</title>
-    <link>https://impact17.github.io/site/</link>
-    <description>Recent content on Impact17 Tech Site</description>
+    <title>Impact17 Tech</title>
+    <link>https://tech.impact17.net/</link>
+    <description>Recent content on Impact17 Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2020 13:06:43 +0000</lastBuildDate>
     
-	<atom:link href="https://impact17.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tech.impact17.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://impact17.github.io/site/posts/first-post/</link>
+      <link>https://tech.impact17.net/posts/first-post/</link>
       <pubDate>Fri, 31 Jan 2020 13:06:43 +0000</pubDate>
       
-      <guid>https://impact17.github.io/site/posts/first-post/</guid>
+      <guid>https://tech.impact17.net/posts/first-post/</guid>
       <description>A first post to test the workflow of using Hugo.</description>
     </item>
     
