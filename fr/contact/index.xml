@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drop Us A Note on Impact17 | Partnering for a better world</title>
-    <link>https://tech.impact17.net/fr/contact/</link>
+    <link>https://impact17.github.io/fr/contact/</link>
     <description>Recent content in Drop Us A Note on Impact17 | Partnering for a better world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2019-2020 [Impact17](https://impact17.net) All Rights Reserved</copyright>
     
-	<atom:link href="https://tech.impact17.net/fr/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://impact17.github.io/fr/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
