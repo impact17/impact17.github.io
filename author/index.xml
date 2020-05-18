@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Impact17 | Partnering for a better world</title>
-    <link>https://impact17.github.io/author/</link>
+    <link>/author/</link>
     <description>Recent content in Authors on Impact17 | Partnering for a better world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019-2020 [Impact17](https://impact17.net) All Rights Reserved</copyright>
     
-	<atom:link href="https://impact17.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>John Doe</title>
-      <link>https://impact17.github.io/author/john-doe/</link>
+      <link>/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/author/john-doe/</guid>
+      <guid>/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://impact17.github.io/author/mark-dinn/</link>
+      <link>/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/author/mark-dinn/</guid>
+      <guid>/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+    <item>
+      <title>Steve Ganly</title>
+      <link>/author/steve-ganly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/steve-ganly/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     

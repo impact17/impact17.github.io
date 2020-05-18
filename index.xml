@@ -2,140 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impact17 | Partnering for a better world</title>
-    <link>https://impact17.github.io/</link>
+    <link>/</link>
     <description>Recent content on Impact17 | Partnering for a better world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019-2020 [Impact17](https://impact17.net) All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://impact17.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-1/</link>
+      <link>/blog/blog-post-1/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-1/</guid>
+      <guid>/blog/blog-post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-2/</link>
+      <link>/blog/blog-post-2/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-2/</guid>
+      <guid>/blog/blog-post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-3/</link>
+      <link>/blog/blog-post-3/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-3/</guid>
+      <guid>/blog/blog-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-4/</link>
+      <link>/blog/blog-post-4/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-4/</guid>
+      <guid>/blog/blog-post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-5/</link>
+      <link>/blog/blog-post-5/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-5/</guid>
+      <guid>/blog/blog-post-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://impact17.github.io/blog/blog-post-6/</link>
+      <link>/blog/blog-post-6/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://impact17.github.io/blog/blog-post-6/</guid>
+      <guid>/blog/blog-post-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Andy Andrea</title>
-      <link>https://impact17.github.io/team/rio-furniture-1/</link>
+      <link>/team/andy-andrea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/team/rio-furniture-1/</guid>
+      <guid>/team/andy-andrea/</guid>
       <description>Chief Executive Officer Andy is Director of Alliance4Impact, Founder &amp;amp; CEO of Impact17, and Chair of the Board of the Sustainable Impact Association, all dedicated to supporting and building partnerships for social good.</description>
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://impact17.github.io/author/john-doe/</link>
+      <title>David Dickie</title>
+      <link>/team/david-dickie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/author/john-doe/</guid>
+      <guid>/team/david-dickie/</guid>
+      <description>BDD David spent his early career in financial roles in manufacturing and publishing before a number of commercial roles in the advertising industry. David is passionate about helping alleviate poverty with a commercial approach to humanitarian issues.</description>
+    </item>
+    
+    <item>
+      <title>Irina Bolgari</title>
+      <link>/team/irina-bolggari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/irina-bolggari/</guid>
+      <description>Head of Research Irina is Head of Research at Impact17 and Project Officer at Alliance4Impact. In both organizations, Irina promotes cross-sector partnerships on humanitarian action and the SDGs. In her current role, Irina oversees and conducts research projects to better understand multi-stakeholder partnerships from academic and practical perspectives.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://impact17.github.io/author/mark-dinn/</link>
+      <link>/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/author/mark-dinn/</guid>
+      <guid>/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
-      <title>Rio Furniture</title>
-      <link>https://impact17.github.io/team/rio-furniture-2/</link>
+      <title>Steve Ganly</title>
+      <link>/author/steve-ganly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://impact17.github.io/team/rio-furniture-2/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://impact17.github.io/team/rio-furniture-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://impact17.github.io/team/rio-furniture-3/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://impact17.github.io/team/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://impact17.github.io/team/rio-furniture-4/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://impact17.github.io/team/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://impact17.github.io/team/rio-furniture-5/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://impact17.github.io/team/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://impact17.github.io/team/rio-furniture-6/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
+      <guid>/author/steve-ganly/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
   </channel>
