@@ -1,69 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News on Impact17 | Partnering for a better world</title>
+    <title>Some of our news on Impact17 | Partnering for a better world</title>
     <link>/blog/</link>
-    <description>Recent content in Latest News on Impact17 | Partnering for a better world</description>
+    <description>Recent content in Some of our news on Impact17 | Partnering for a better world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019-2020 [Impact17](https://impact17.net) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 15:07:10 +0600</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-1/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>First post by Irina</title>
+      <link>/blog/irina-first-post/</link>
+      <pubDate>Thu, 21 May 2020 15:07:10 +0600</pubDate>
       
-      <guid>/blog/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>/blog/irina-first-post/</guid>
+      <description>Irina&amp;rsquo;s First Blog Post  I downloaded desktop.github.com I was able to clone the impact17 repos I added pictures and bios for all team members (still waiting for Steve) Using desktop is far easier   </description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-2/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>First post</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Wed, 20 May 2020 15:07:10 +0600</pubDate>
       
-      <guid>/blog/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-3/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-4/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-5/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-6/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>/blog/first-post/</guid>
+      <description>The is our example first post.
+Looking forward to the next one? You shouldn&amp;rsquo;t have to wait long&amp;hellip;
+Remember lists?  Use github.com web interface Download desktop.github.com and play with that  Who am I?</description>
     </item>
     
   </channel>
