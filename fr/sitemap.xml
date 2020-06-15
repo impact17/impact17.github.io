@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>/fr/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
@@ -100,21 +115,6 @@
   <url>
     <loc>/fr/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fr/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
   </url>
   
   <url>
@@ -225,6 +225,20 @@
   </url>
   
   <url>
+    <loc>/fr/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/events/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/author/john-doe/</loc>
   </url>
   
@@ -248,6 +262,20 @@
   
   <url>
     <loc>/fr/project/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/participants/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/participants/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/participants/"
+                />
   </url>
   
   <url>
