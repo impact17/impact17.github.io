@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/events/</loc>
-    <lastmod>2020-06-10T15:00:00+01:00</lastmod>
+    <loc>/impact-stories/</loc>
+    <lastmod>2020-07-31T15:11:53+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-10T15:00:00+01:00</lastmod>
+    <lastmod>2020-07-31T15:11:53+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,6 +20,11 @@
                 hreflang="en"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+    <lastmod>2020-06-10T15:00:00+01:00</lastmod>
   </url>
   
   <url>
